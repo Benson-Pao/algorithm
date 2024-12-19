@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithmLib", "algorithmLib\algorithmLib.csproj", "{0D2BD58E-1403-4A5B-AD64-80F692B64742}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "algorithmLib", "algorithmLib\algorithmLib.csproj", "{0D2BD58E-1403-4A5B-AD64-80F692B64742}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithmTest", "algorithmTest\algorithmTest.csproj", "{7100E9AE-404D-4630-8E50-14CABB17FEF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "algorithmTest", "algorithmTest\algorithmTest.csproj", "{7100E9AE-404D-4630-8E50-14CABB17FEF7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{8772B8CA-CC38-49E1-A99C-42D0C15DAE78}"
 	ProjectSection(SolutionItems) = preProject
